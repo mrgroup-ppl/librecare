@@ -1,0 +1,17 @@
+{
+  "name": "librecare",
+  "version": "0.1.0",
+  "description": "Prototype for LibreCare",
+  "repository": "git@github.com:mrgroup-ppl/librecare.git",
+  "license": "none",
+  "scripts": {
+  	"dev": "next",
+  	"build": "next build",
+  	"start": "next start"
+  },
+  "dependencies": {
+    "next": "^7.0.1",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2"
+  }
+}
